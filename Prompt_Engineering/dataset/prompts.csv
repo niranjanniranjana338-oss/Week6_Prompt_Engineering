@@ -1,0 +1,8 @@
+prompt_type,task,prompt
+Zero-shot,Explain photosynthesis,Explain photosynthesis in simple words for a school student.
+One-shot,Write a product description,Example: Product: Pen. Description: A smooth pen for everyday writing. Now write one for a notebook.
+Few-shot,Classify sentiment,"Text: I love this. Sentiment: Positive
+Text: This is awful. Sentiment: Negative
+Text: It is okay. Sentiment:"
+Role prompting,Study planning,Act as a friendly study coach. Create a realistic one-week study plan for a college student.
+Chain-of-thought style,Debugging,"Help debug this Python error. Explain the key checks briefly, then provide corrected code: TypeError when adding a string and an integer."

@@ -1,0 +1,2 @@
+prompt_type,relevance_1_to_5,clarity_1_to_5,correctness_1_to_5,notes
+Zero-shot,,,,Evaluate the generated response manually.
